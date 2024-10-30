@@ -1,6 +1,8 @@
 you can see ios code on 
 iosApp.zip
 
+and wait for gif 5 second 
+
 
 
 
